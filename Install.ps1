@@ -172,7 +172,7 @@ function Set-ScriptLanguageStrings {
         # Define language strings.
         $langStringsEN = [PSCustomObject]@{
             Author          = "Patch author:"
-            Author2         = "@Amd64fox"
+            Author2         = "@iJomarCreatives:) PH PRIDE!"
             Incorrect       = "Oops, an incorrect value,"
             Incorrect2      = "enter again through "
             Download        = "Error downloading"
@@ -236,7 +236,7 @@ function Set-ScriptLanguageStrings {
         
         $langStringsRU = [PSCustomObject]@{
             Author          = "Автор патча:"
-            Author2         = "@Amd64fox"
+            Author2         = "@iJomarCreatives:) PH PRIDE!"
             Incorrect       = "Ой, некорректное значение,"
             Incorrect2      = "повторите ввод через"
             Download        = "Ошибка загрузки"
@@ -301,7 +301,7 @@ function Set-ScriptLanguageStrings {
 
         $langStringsIT = [PSCustomObject]@{
             Author          = "Autore patch:"
-            Author2         = "@Amd64fox"
+            Author2         = "@iJomarCreatives:) PH PRIDE!"
             TranslationBy   = "Autore traduzione:"
             TranslationBy2  = "@Francescoaracu"
             Incorrect       = "Ops! Valore sbagliato,"
@@ -367,7 +367,7 @@ function Set-ScriptLanguageStrings {
 
         $langStringsTR = [PSCustomObject]@{
             Author          = "Yama yapımcısı:"
-            Author2         = "@Amd64fox"
+            Author2         = "@iJomarCreatives:) PH PRIDE!"
             TranslationBy   = "Tercüman:"
             TranslationBy2  = "@metezd"
             Incorrect       = "Eyvah, yanlış bir değer,"
@@ -433,7 +433,7 @@ function Set-ScriptLanguageStrings {
 
         $langStringsKA = [PSCustomObject]@{
             Author          = "პაჩის ავტორი:"
-            Author2         = "@Amd64fox"
+            Author2         = "@iJomarCreatives:) PH PRIDE!"
             TranslationBy   = "თარგმანის ავტორი:"
             TranslationBy2  = "@Naviamold1"
             Incorrect       = "უპს, არასწორი შენატანი,"
@@ -499,7 +499,7 @@ function Set-ScriptLanguageStrings {
 
         $langStringsPL = [PSCustomObject]@{
             Author          = "Patch author:"
-            Author2         = "@Amd64fox"
+            Author2         = "@iJomarCreatives:) PH PRIDE!"
             TranslationBy   = "Translation author:"
             TranslationBy2  = "@Nokxixr"
             Incorrect       = "Oops, niewłaściwa wartość,"
@@ -564,7 +564,7 @@ function Set-ScriptLanguageStrings {
         }
         $langStringsES = [PSCustomObject]@{
             Author          = "Autor del parche:"
-            Author2         = "@Amd64fox"
+            Author2         = "@iJomarCreatives:) PH PRIDE!"
             TranslationBy   = "Autor de la traducción:"
             TranslationBy2  = "@peter9811"
             Incorrect       = "Ufff, un valor incorrecto,"
@@ -630,7 +630,7 @@ function Set-ScriptLanguageStrings {
 
         $langStringsFR = [PSCustomObject]@{
             Author          = "Auteur du patch:"
-            Author2         = "@Amd64fox"
+            Author2         = "@iJomarCreatives:) PH PRIDE!"
             TranslationBy   = "Auteur de la traduction:"
             TranslationBy2  = "@xerta555"
             Incorrect       = "Oops, une valeure incorrecte,"
